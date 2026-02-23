@@ -1,3 +1,6 @@
+![Screenshot 2026-02-24 at 01 42 25](https://github.com/user-attachments/assets/ef5fc6c9-f25f-48e8-af5c-2097dde27a54)
+![Screenshot 2026-02-24 at 01 42 10](https://github.com/user-attachments/assets/d434d611-6b59-4128-922f-9ccf79d4baeb)
+![Screenshot 2026-02-24 at 01 41 44](https://github.com/user-attachments/assets/4f2c33cd-95ff-4435-97f6-498aa8e66110)
 ## 🚀 Pengembangan Aplikasi Chatbot Berbasis Gemini
 ![Screenshot 2026-02-24 at 01 37 36](https://github.com/user-attachments/assets/b92a595f-2ec0-4572-926f-3b56836f49cf)
 Proyek ini merupakan implementasi chatbot cerdas berbasis **Gemini AI** yang dirancang untuk memberikan respons percakapan yang cepat, kontekstual, dan adaptif. Aplikasi ini mengintegrasikan kemampuan pemrosesan bahasa alami (NLP) modern dengan antarmuka web interaktif sehingga dapat digunakan untuk berbagai kebutuhan seperti layanan pendidikan, asisten informasi, maupun otomasi komunikasi digital.
